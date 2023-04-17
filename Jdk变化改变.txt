@@ -1,0 +1,9 @@
+Map
+Jdk8和Jdk11有变化
+
+多线程高并发，得自己去了解一下，这里讲的是基础
+并发基础、线程、锁、线程池、并发容器、JUC（executor、collections、locks、atomic(原子类)、tools(CountDownLatch, Exchanger, ThreadLocal, CyclicBarrier)）
+这个是非常麻烦的事情，以后同学们在处理这个，需要很好的基础
+没有一定的课时量，没有一定的源码，你很难把它理解透
+我们所学的架构也好，缓存也好，数据结构和算法，设计模式等等，其实都是在为它做服务（为真真正正的高并发做服务）
+涉及到操作系统，内存，调度等等等等
